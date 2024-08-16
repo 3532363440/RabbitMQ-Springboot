@@ -1,0 +1,5 @@
+spring:
+  rabbitmq:
+    username: liu
+    password: liu
+    addresses: 192.168.31.85,192.168.31.86,192.168.31.87
